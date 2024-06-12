@@ -1,6 +1,9 @@
 function TestImages() {
   return (
     <div className="col">
+      <div className="row justify-content-center text-center">
+        <h1>image load test</h1>
+      </div>
       <img
         className="img-fluid"
         src="/images/testeDePerformanceESEO/high-resolution-1.jpg"
